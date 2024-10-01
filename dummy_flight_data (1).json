@@ -1,0 +1,82 @@
+[
+    {
+        "BookingID": "B001",
+        "PassengerName": "Passenger 1",
+        "FlightNumber": "FL942",
+        "Departure": "2024-09-30T00:00:00Z",
+        "Arrival": "2024-09-28T00:00:00Z",
+        "Status": "Cancelled"
+    },
+    {
+        "BookingID": "B002",
+        "PassengerName": "Passenger 2",
+        "FlightNumber": "FL666",
+        "Departure": "2024-09-26T00:00:00Z",
+        "Arrival": "2024-09-21T00:00:00Z",
+        "Status": "Cancelled"
+    },
+    {
+        "BookingID": "B003",
+        "PassengerName": "Passenger 3",
+        "FlightNumber": "FL698",
+        "Departure": "2024-09-22T00:00:00Z",
+        "Arrival": "2024-09-24T00:00:00Z",
+        "Status": "Cancelled"
+    },
+    {
+        "BookingID": "B004",
+        "PassengerName": "Passenger 4",
+        "FlightNumber": "FL187",
+        "Departure": "2024-09-26T00:00:00Z",
+        "Arrival": "2024-09-23T00:00:00Z",
+        "Status": "Pending"
+    },
+    {
+        "BookingID": "B005",
+        "PassengerName": "Passenger 5",
+        "FlightNumber": "FL281",
+        "Departure": "2024-09-29T00:00:00Z",
+        "Arrival": "2024-09-24T00:00:00Z",
+        "Status": "Cancelled"
+    },
+    {
+        "BookingID": "B006",
+        "PassengerName": "Passenger 6",
+        "FlightNumber": "FL520",
+        "Departure": "2024-10-01T00:00:00Z",
+        "Arrival": "2024-09-25T00:00:00Z",
+        "Status": "Pending"
+    },
+    {
+        "BookingID": "B007",
+        "PassengerName": "Passenger 7",
+        "FlightNumber": "FL344",
+        "Departure": "2024-09-29T00:00:00Z",
+        "Arrival": "2024-09-23T00:00:00Z",
+        "Status": "Pending"
+    },
+    {
+        "BookingID": "B008",
+        "PassengerName": "Passenger 8",
+        "FlightNumber": "FL957",
+        "Departure": "2024-09-28T00:00:00Z",
+        "Arrival": "2024-09-30T00:00:00Z",
+        "Status": "Pending"
+    },
+    {
+        "BookingID": "B009",
+        "PassengerName": "Passenger 9",
+        "FlightNumber": "FL913",
+        "Departure": "2024-09-22T00:00:00Z",
+        "Arrival": "2024-09-28T00:00:00Z",
+        "Status": "Confirmed"
+    },
+    {
+        "BookingID": "B010",
+        "PassengerName": "Passenger 10",
+        "FlightNumber": "FL115",
+        "Departure": "2024-09-29T00:00:00Z",
+        "Arrival": "2024-09-30T00:00:00Z",
+        "Status": "Cancelled"
+    }
+]
